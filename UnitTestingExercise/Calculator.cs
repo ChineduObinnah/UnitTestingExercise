@@ -1,7 +1,7 @@
 ﻿using System;
 namespace UnitTestingExercise
 {
-    public class UnitTestMethods
+    public class Calculator
     {
         // Make sure your references are set properly
         // Righ-click on Dependencies in your .Tests project and set your reference
